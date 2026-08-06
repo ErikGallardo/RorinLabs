@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Under Maintenance — ZZZ Calculator</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: #0d0d0d;
+      color: #fff;
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 20px;
+      padding: 48px 40px;
+      max-width: 480px;
+      width: 90%;
+      text-align: center;
+    }
+    .icon { font-size: 64px; margin-bottom: 20px; }
+    h1 { font-size: 26px; font-weight: 700; color: #74DFF1; margin-bottom: 12px; }
+    .subtitle { font-size: 15px; color: rgba(255,255,255,0.6); line-height: 1.6; margin-bottom: 28px; }
+    .badge {
+      display: inline-block;
+      background: rgba(116,223,241,0.12);
+      border: 1px solid rgba(116,223,241,0.3);
+      color: #74DFF1;
+      border-radius: 999px;
+      padding: 6px 18px;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+    .footer {
+      margin-top: 36px;
+      font-size: 12px;
+      color: rgba(255,255,255,0.25);
+    }
+    .spinner {
+      width: 32px; height: 32px;
+      border: 3px solid rgba(116,223,241,0.2);
+      border-top-color: #74DFF1;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 24px auto 0;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="icon">🔧</div>
+    <h1>Under Maintenance</h1>
+    <p class="subtitle">
+      The ZZZ Calculator is currently undergoing maintenance or updates.<br>
+      We'll be back shortly — thanks for your patience!
+    </p>
+    <span class="badge">⏱ Back soon</span>
+    <div class="spinner"></div>
+    <p class="footer">rorin.duckdns.org — ZZZ Calculator by Rorin</p>
+  </div>
+</body>
+</html>

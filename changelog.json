@@ -1,0 +1,59 @@
+[
+  {
+    "version": "1.2.3",
+    "fecha": "2026-05-23",
+    "cambios": [
+      "Fixed background orbs flickering",
+      "Image download now works remotely",
+      "Added feedback/bug report form"
+    ]
+  },
+  {
+    "version": "1.2.2",
+    "fecha": "2026-05-22",
+    "cambios": [
+      "Added Anomaly Proficiency to DA Buffs",
+      "Disc set descriptions added",
+      "Fixed disc set conditions",
+      "Translated disc names in buffs panel",
+      "Fixed W-Engine effects (Cauldron, Qingming, Marcato, Transmorpher)",
+      "Fixed W-Engine name matching (parentheses)"
+    ]
+  },
+  {
+    "version": "1.2.1",
+    "fecha": "2026-05-21",
+    "cambios": [
+      "Added to Starlight - Billy",
+      "Translations added",
+      "Fixed a bug in the recommendations tab"
+    ]
+  },
+  {
+    "version": "1.2",
+    "fecha": "2026-05-21",
+    "cambios": [
+      "Added Wind element resistance support",
+      "Added new W-Engines: Frostfall Sickle, Neon Fantasies, Serpentine Seeker, The Simmering Pot",
+      "Added new enemies to DA Buffs tab",
+      "Fixed multiple hardcoded texts missing translations (DPS & Team tabs)",
+      "Added missing i18n keys for Promeia and Cissia (core/passives)"
+    ]
+  },
+  {
+    "version": "1.1",
+    "fecha": "2026-05-07",
+    "cambios": [
+      "Added Promeia",
+      "Added the Change Log",
+      "Fixed ranking evaluation details"
+    ]
+  },
+  {
+    "version": "1.0",
+    "fecha": "2026-04-25",
+    "cambios": [
+      "The first version of Rorin Labs has been released"
+    ]
+  }
+]
