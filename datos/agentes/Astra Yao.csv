@@ -1,0 +1,21 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - "Capriccio";87,8;62,2;elemental
+2do Basico - "Capriccio";118,5;85,0;elemental
+3er Basico (Min) - "Capriccio";241,9;173,1;elemental
+3er Basico (Max) - "Capriccio";542,4;329,4;elemental
+1er Basico - Interlude;110,0;72,6;elemental
+2do Basico - Interlude;110,0;72,6;elemental
+3er Basico - Interlude;220,0;145,2;elemental
+4to Basico - Interlude;110,0;72,6;elemental
+5to Basico - Interlude;220,0;145,2;elemental
+Basico - Chorus;440,0;290,4;elemental
+Basico - Finale;110,0;72,6;elemental
+Ataque Especial (Min) - "Windchimes & Oaths";110,0;72,6;elemental
+Ataque Especial (Max) - "Windchimes & Oaths";440,0;290,4;elemental
+Chord (Tremolo) - Follow-Up;92,2;0,0;elemental
+Chord (Tone Cluster) - Follow-Up;144,6;0,0;elemental
+Asistencia Rapida - "One Luminous Sky";110,0;72,6;elemental
+Dash - "Lunar Eclipse Melody";162,1;61,3;elemental
+Contraataque - "Umbrella Waltz";220,0;145,2;elemental
+Ataque en Cadena - "Tipsy Concerto";1343,9;349,5;elemental
+Definitiva - "Fantasian Sonata";3920,0;358,2;elemental

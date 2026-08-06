@@ -1,0 +1,26 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Moon Hunter;58,9;22,3;normal
+1er Basico (Cargado) - Moon Hunter;74,5;18,7;elemental
+2do Basico - Moon Hunter;70,1;45,7;normal
+2do Basico (Cargado) - Moon Hunter;113,6;49,4;elemental
+3er Basico - Moon Hunter;117,8;68,7;normal
+3er Basico (Cargado) - Moon Hunter;199,6;81,2;elemental
+4to Basico - Moon Hunter;304,9;168,1;normal
+4to Basico (Cargado) - Moon Hunter;422,1;161,0;elemental
+5to Basico - Moon Hunter;362,2;222,5;normal
+5to Basico (Carga Nivel 1) - Moon Hunter;555,9;245,6;elemental
+5to Basico (Carga Nivel 2) - Moon Hunter;712,1;309,0;elemental
+Ataque Especial - Time to Hunt;155,2;116,7;elemental
+Ataque Especial (Cargado) - Time to Hunt;267,3;201,3;elemental
+Ataque Especial Ex - Thrill of the Hunt;1070,0;677,0;elemental
+Ataque Especial Ex (Cargado) - Thrill of the Hunt;1580,4;997,7;elemental
+Asistencia Rapida - Wolf Pack;126,9;95,0;elemental
+Asistencia Defensiva Ligera - Disrupted Hunt;0,0;388,8;elemental
+Asistencia Defensiva Pesada - Disrupted Hunt;0,0;491,2;elemental
+Asistencia Defensiva en Cadena - Disrupted Hunt;0,0;239,6;elemental
+Asistencia Seguimiento - Vengeful Counterattack;577,6;371,1;elemental
+Asistencia Seguimiento (Reforzado) - Vengeful Counterattack;822,1;540,9;elemental
+Dash - Keep it Clean;94,6;35,8;normal
+Contraataque - Etiquette Manual;374,0;252,8;elemental
+Ataque en Cadena - As You Wish;1275,8;328,8;elemental
+Definitiva - Mission Complete;3389,2;1645,5;elemental

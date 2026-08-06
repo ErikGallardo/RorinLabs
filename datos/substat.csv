@@ -1,0 +1,11 @@
+﻿substat;tipo;valor
+Ataque;plano;19
+Ataque;porcentual;3
+Puntos_Vida;plano;112
+Puntos_Vida;porcentual;3
+Defensa;plano;15
+Defensa;porcentual;4.8
+Perforación_Plana;plano;9
+Maestría_Anomalía;plano;9
+Probabilidad_crítico;porcentual;2.4
+Daño_crítico;porcentual;4.8

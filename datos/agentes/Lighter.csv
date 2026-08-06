@@ -1,0 +1,29 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - L-Form Thundering Fist;78,8;29,5;normal
+2do Basico - L-Form Thundering Fist;96,4;49,4;normal
+3er Basico - L-Form Thundering Fist;111,4;70,9;elemental
+1er Golpe Seguimiento - L-Form Thundering Fist;173,8;91,3;elemental
+2do Golpe Seguimiento - L-Form Thundering Fist;96,1;50,8;elemental
+3er Golpe Seguimiento - L-Form Thundering Fist;116,4;61,3;elemental
+4to Golpe Seguimiento - L-Form Thundering Fist;65,8;34,9;elemental
+5to Golpe Seguimiento - L-Form Thundering Fist;178,1;93,8;elemental
+4to Basico - L-Form Thundering Fist;158,1;114,6;elemental
+5to Basico (Startup) - L-Form Thundering Fist;327,5;194,4;elemental
+5to Basico (Combo) - L-Form Thundering Fist;246,1;122,0;elemental
+5to Basico (Finisher) - L-Form Thundering Fist;210,2;120,2;elemental
+5to Basico (Startup Morale Burst) - L-Form Thundering Fist;355,4;204,5;elemental
+5to Basico (Combo Morale Burst) - L-Form Thundering Fist;729,5;128,4;elemental
+5to Basico (Finisher Morale Burst) - L-Form Thundering Fist;239,6;138,3;elemental
+5to Basico (Powerful Finisher Morale Burst) - L-Form Thundering Fist;871,0;199,5;elemental
+Ataque Especial - V-Form Sunrise Uppercut;72,6;55,0;elemental
+Ataque Especial Ex - V-Form Sunrise Uppercut - Full Distance;973,6;605,9;elemental
+Ataque Especial Ex (Seguimiento) - V-Form Sunrise Uppercut - Full Distance;586,4;372,0;elemental
+Asistencia Rapida - Blazing Flash - Guard;140,1;104,9;elemental
+Asistencia Defensiva Ligera - Swift Break;0,0;407,7;elemental
+Asistencia Defensiva Pesada - Swift Break;0,0;514,4;elemental
+Asistencia Defensiva en Cadena - Swift Break;0,0;250,4;elemental
+Asistencia Seguimiento - Charging Slam - Stab;439,8;273,6;elemental
+Dash - Charging Slam;180,1;68,1;normal
+Contraataque - Blazing Flash;373,3;253,4;elemental
+Ataque en Cadena - V-Form Scorching Sun;1424,9;410,7;elemental
+Definitiva - W-Form Crowned Inferno;3016,1;1421,5;elemental

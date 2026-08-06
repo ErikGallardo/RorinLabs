@@ -1,0 +1,24 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Smash 'n' Bash;127,4;48,3;normal
+2do Basico - Smash 'n' Bash;158,4;98,5;normal
+3er Basico - Smash 'n' Bash;252,6;157,1;normal
+4to Basico - Smash 'n' Bash;635,3;374,7;elemental
+1er Basico Reforzado - Smash 'n' Bash;322,5;92,2;elemental
+2do Basico Reforzado - Smash 'n' Bash;810,8;235,8;elemental
+2do Basico Reforzado (Teamwork) - Smash 'n' Bash;1002,9;352,3;elemental
+Ataque Especial (Golpe) - Hammer Time;104,7;78,3;elemental
+Ataque Especial (Explosion) - Hammer Time;155,9;117,4;elemental
+Ataque Especial (Explosion Teamwork) - Hammer Time;171,3;117,4;elemental
+Ataque Especial Ex (Golpe) - Boiling Furnace;305,2;229,3;elemental
+Ataque Especial Ex (Explosion) - Boiling Furnace;1212,1;741,5;elemental
+Ataque Especial Ex (Explosion Teamwork) - Boiling Furnace;1333,2;741,5;elemental
+Asistencia Rapida - Coming Thru!;368,6;276,2;elemental
+Asistencia Defensiva Ligera - Protective Hammer;0,0;388,8;elemental
+Asistencia Defensiva Pesada - Protective Hammer;0,0;491,2;elemental
+Asistencia Defensiva en Cadena - Protective Hammer;0,0;239,6;elemental
+Asistencia Seguimiento - Hammer Bell;718,9;470,0;elemental
+Dash - Tremble!;112,2;42,4;normal
+Contraataque - Don't Look Down on Me;688,2;434,0;elemental
+Ataque en Cadena - Natural Disaster;1272,9;325,9;elemental
+Definitiva - Hammerquake;3097,6;1507,6;elemental
+Definitiva (Teamwork) - Hammerquake;3388,0;1645,4;elemental

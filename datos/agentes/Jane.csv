@@ -1,0 +1,25 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Dancing Blades;72,4;23,0;elemental
+2do Basico - Dancing Blades;125,0;67,4;elemental
+3er Basico - Dancing Blades;167,1;90,3;elemental
+4to Basico - Dancing Blades;327,3;164,7;elemental
+5to Basico - Dancing Blades;197,8;103,9;elemental
+6to Basico - Dancing Blades;582,8;300,1;elemental
+Basico (Consecutivo) - Salchow Jump;602,2;344,7;elemental
+Basico (Finishing Move) - Salchow Jump;323,0;184,5;elemental
+Ataque Especial - Aerial Sweep;116,1;87,5;elemental
+Ataque Especial Ex - Aerial Sweep - Clearout;1150,0;702,4;elemental
+Asistencia Rapida - Dark Thorn;239,1;179,7;elemental
+Asistencia Rapida - Lutz Jump;275,0;206,8;elemental
+Asistencia Defensiva Ligera - Last Defense;0,0;407,7;elemental
+Asistencia Defensiva Pesada - Last Defense;0,0;514,4;elemental
+Asistencia Defensiva en Cadena - Last Defense;0,0;250,4;elemental
+Asistencia Seguimiento - Gale Sweep;692,0;448,6;elemental
+1er Dash - Edge Jump;143,0;54,5;elemental
+2do Dash - Edge Jump;143,0;54,5;elemental
+Dash - Phantom Thrust;209,0;78,7;elemental
+1er Contraataque - Swift Shadow;683,3;344,7;elemental
+2do Contraataque - Swift Shadow;683,3;344,7;elemental
+Contraataque - Swift Shadow Dance;774,2;371,8;elemental
+Ataque en Cadena - Flowers of Sin;1266,2;356,4;elemental
+Definitiva - Final Curtain;2941,3;280,0;elemental

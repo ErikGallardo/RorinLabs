@@ -1,0 +1,28 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Saw Teeth Trimming;98,3;37,6;normal
+2do Basico - Saw Teeth Trimming;222,2;130,8;normal
+3er Basico - Saw Teeth Trimming;595,4;361,4;normal
+1er Basico (Flash Freeze) - Flash Freeze Trimming;199,7;74,1;elemental
+2do Basico (Flash Freeze) - Flash Freeze Trimming;368,8;135,3;elemental
+3er Basico (Flash Freeze) - Flash Freeze Trimming;993,4;368,7;elemental
+1er Basico - Glacial Blade Wave;461,2;101,1;elemental
+2do Basico - Glacial Blade Wave;294,2;127,1;elemental
+Basico (Enemigos Pequeños) - Icy Blade;362,7;117,0;elemental
+Basico (Enemigos Medianos) - Icy Blade;441,3;143,7;elemental
+Basico (Enemigos Grandes) - Icy Blade;519,9;170,4;elemental
+Ataque Especial - Drift;101,1;75,8;elemental
+Ataque Especial Ex - Tail Swipe;754,5;608,6;elemental
+Ataque Especial Ex - Sharknami;1106,6;557,6;elemental
+Asistencia Rapida - Shark Sentinel;243,2;182,7;elemental
+Asistencia Defensiva Ligera - Wavefront Impact;0,0;407,7;elemental
+Asistencia Defensiva Pesada - Wavefront Impact;0,0;514,4;elemental
+Asistencia Defensiva en Cadena - Wavefront Impact;0,0;250,4;elemental
+Asistencia Seguimiento - Shark Cruiser;876,8;577,3;elemental
+Dash (Spinning Slash) - Arctic Ambush;125,0;94,2;elemental
+Dash (Swift Scissors) - Arctic Ambush;255,2;147,7;elemental
+Dash (Charged Scissors) - Arctic Ambush;316,6;183,3;elemental
+Dash - Monstrous Wave;154,0;58,3;normal
+Dash - Cold Snap;292,0;118,4;elemental
+Contraataque - Reef Rock;305,5;341,8;elemental
+Ataque en Cadena - Avalanche;1589,9;533,9;elemental
+Definitiva - Endless Winter;3781,7;278,7;elemental

@@ -1,0 +1,20 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Happy to Be of Service;52,0;29,3;elemental
+2do Basico - Happy to Be of Service;103,0;65,5;elemental
+3er Basico - Happy to Be of Service;129,7;92,4;elemental
+4to Basico - Happy to Be of Service;199,6;150,1;elemental
+1er Basico - Rock, Paper, Scissors;179,7;107,7;elemental
+2do Basico - Rock, Paper, Scissors;228,3;137,0;elemental
+3er Basico - Rock, Paper, Scissors;206,5;124,0;elemental
+4to Basico - Rock, Paper, Scissors;201,5;120,7;elemental
+Ataque Especial - Welcome Gesture;109,2;81,7;elemental
+Ataque Especial Ex - Get Lost!;1099,7;504,8;elemental
+Ataque Especial Ex - Rock;808,8;354,8;elemental
+Ataque Especial Ex - Scissors;1050,7;465,3;elemental
+Ataque Especial Ex - Paper!;1403,5;641,4;elemental
+Asistencia Rapida - Forward Call;242,0;91,3;elemental
+Asistencia Seguimiento - Back-to-Back Calls;753,7;491,6;elemental
+Dash - Sudden Call;121,0;45,7;elemental
+Contraataque - Number Unavailable;534,6;346,5;elemental
+Ataque en Cadena - Welcome Mat;1240,8;272,8;elemental
+Definitiva - Service Stopped for Number Dialed;3245,0;1151,7;elemental

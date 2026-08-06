@@ -1,0 +1,18 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Kitty Slash;111,3;27,9;elemental
+2do Basico - Kitty Slash;125,3;55,8;elemental
+3er Basico - Kitty Slash;146,4;70,9;elemental
+4to Basico - Kitty Slash;340,7;156,5;elemental
+5to Basico - Kitty Slash;247,9;88,6;elemental
+Basico - Crimson Blade;144,4;88,6;elemental
+Ataque Especial - Surprise Attack;94,6;71,5;elemental
+Ataque Especial Ex - Super Surprise Attack!;1079,8;683,1;elemental
+Asistencia Rapida - Cat's Paw;189,1;141,8;elemental
+Asistencia Defensiva Ligera - Desperate Defense;0,0;388,8;elemental
+Asistencia Defensiva Pesada - Desperate Defense;0,0;491,2;elemental
+Asistencia Defensiva en Cadena - Desperate Defense;0,0;239,6;elemental
+Asistencia Seguimiento - Shadow Strike;601,8;387,9;elemental
+Dash - Over Here!;70,3;26,4;elemental
+Contraataque - Phantom Claws;456,7;299,6;elemental
+Ataque en Cadena - Claw Swipe;1073,0;239,5;elemental
+Definitiva - Claw Smash;3143,0;177,5;elemental

@@ -1,0 +1,17 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - High-Pressure Spike;111,2;27,9;normal
+2do Basico - High-Pressure Spike;120,2;52,3;normal
+3er Basico - High-Pressure Spike;250,2;107,9;normal
+4to Basico - High-Pressure Spike;373,3;161,1;elemental
+Basico (Moving Shot) - High-Pressure Spike;81,0;61,2;elemental
+Ataque Especial - Obstruction Removal;85,0;64,1;elemental
+Ataque Especial Ex - Supercharged Obstruction Removal;668,2;402,6;elemental
+Ataque Especial (Vortex Cluster) - Obstruction Removal;175,5;0,0;elemental
+Ataque Especial (Cycle) - Obstruction Removal;38,9;26,6;elemental
+Ataque Especial (Pulse Grenade) - Obstruction Removal;84,9;0,0;elemental
+Asistencia Rapida - Incident Management;91,7;68,6;elemental
+Asistencia Seguimiento - Counter Volt Needle;719,0;470,1;elemental
+Dash - Quick Inspection;67,4;25,5;normal
+Contraataque - Violation Penalty;329,2;226,4;elemental
+Ataque en Cadena - Collaborative Construction;1143,3;229,3;elemental
+Definitiva - Demolition Blast - Beware;2958,3;200,2;elemental

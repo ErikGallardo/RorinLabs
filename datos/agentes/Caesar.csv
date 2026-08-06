@@ -1,0 +1,26 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Rampaging Slash;94,5;32,3;elemental
+2do Basico - Rampaging Slash;82,7;51,4;elemental
+3er Basico - Rampaging Slash;296,8;165,0;elemental
+3er Basico (ALT) - Rampaging Slash;237,2;111,0;elemental
+4to Basico - Rampaging Slash;158,0;101,6;elemental
+5to Basico - Rampaging Slash;397,7;206,8;elemental
+6to Basico - Rampaging Slash;800,3;394,6;elemental
+Basico - Dead End;252,8;140,5;elemental
+Ataque Especial - Shockwave Shield Bash;107,2;36,1;elemental
+Ataque Especial (Perfect Block) - Shockwave Shield Bash;0,0;115,5;elemental
+Ataque Especial - Roaring Thrust;118,2;40,8;elemental
+Ataque Especial Ex - Parry Counter;774,4;379,1;elemental
+Ataque Especial Ex (Perfect Block) - Parry Counter;0,0;231,0;elemental
+Ataque Especial Ex (Counter) - Parry Counter;774,4;379,1;elemental
+Ataque Especial Ex - Overpowered Shield Bash;851,4;433,6;elemental
+Ataque Especial Ex (Perfect Block) - Overpowered Shield Bash;0,0;231,0;elemental
+Asistencia Rapida - Lane Change;129,1;97,2;elemental
+Asistencia Defensiva Ligera - Aegis Shield;0,0;407,7;elemental
+Asistencia Defensiva Pesada - Aegis Shield;0,0;518,0;elemental
+Asistencia Defensiva en Cadena - Aegis Shield;0,0;254,0;elemental
+Asistencia Seguimiento - Aiding Blade;815,3;534,5;elemental
+Dash - Hog Rush;125,0;47,7;elemental
+Contraataque - Eye For an Eye;387,1;262,2;elemental
+Ataque en Cadena - Road Rage Slam;1277,9;300,0;elemental
+Definitiva - Savage Smash;4025,3;418,4;elemental

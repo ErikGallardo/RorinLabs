@@ -1,0 +1,27 @@
+﻿Nombre;stat;Tipo;valor;elemento
+Armonía Umbría;Bono_Dash;plano;15;todos
+Balada de la rama y la espada;Daño_crítico;plano;16;todos
+Blues Libre;Maestría_Anomalía;plano;30;todos
+Disco sacudestrellas;Impacto;porcentual;6;todos
+Fábula Yunkui;Puntos_Vida;porcentual;10;todos
+Jazz caótico;Maestría_Anomalía;plano;30;todos
+Jazz Oscilante;Recuperación_energía;porcentual;20;todos
+Melodía de Phaeton;Tasa_de_Anomalía;porcentual;8;todos
+Metal caótico;Daño_elemental;plano;10;Etereo
+Metal colmilludo;Daño_elemental;plano;10;Físico
+Metal eléctrico;Daño_elemental;plano;10;Electrico
+Metal infernal;Daño_elemental;plano;10;Fuego
+Metal Polar;Daño_elemental;plano;10;Hielo
+Monarca del Pináculo;Aturdimiento;porcentual;6;todos
+Proto Punk;Defensa;porcentual;16;todos
+Punk Hormonal;Ataque;porcentual;10;todos
+Rock espiritual;Defensa;porcentual;16;todos
+Tecno Pícido;Probabilidad_crítico;plano;8;todos
+Tecno Tetraodóntido;Tasa_de_Perforación;plano;8;todos
+Voz Astral;Ataque;porcentual;10;todos
+Floración del alba;Bono_Dano_Basico;plano;15;todos
+Nana a la Luz Cenicienta;Recuperación_energía;porcentual;20;todos
+Balada de Aguas Blancas;Daño_elemental;plano;10;Físico
+Aria Radiante;Daño_elemental;plano;10;Etereo
+Conejo en el país de las maravillas;Puntos_Vida;porcentual;10;todos
+Diario de una prisionera;Daño_elemental;plano;10;Hielo

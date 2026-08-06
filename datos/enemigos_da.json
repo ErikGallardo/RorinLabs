@@ -1,0 +1,1011 @@
+{
+  "Notorious - Dead End Butcher": {
+    "imagen": "/images/enemigos/Notorious - Dead End Butcher.png",
+    "spans": [
+      {
+        "texto": "• El daño que inflige la ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "Anomalía de Atributo",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " contra los jefes aumenta en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "50 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ".\nCuando el Carnicero del Callejón Infame está en el estado de ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "potenciación etérea",
+        "estilo": "especial"
+      },
+      {
+        "texto": ", el daño que recibe se reduce en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "15 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": " y el Aturdimiento que inflige el agente se reduce en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "30 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": ".",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "checkbox",
+        "label": "Estado: Potenciación Etérea",
+        "efectos": {
+          "DMG_Taken": -15.0,
+          "Aturdimiento": -30.0
+        }
+      },
+      {
+        "tipo": "checkbox",
+        "label": "Buff de Escenario: Daño Anomalía +50%",
+        "efectos": {
+          "Bono_Daño_Anomalia": 50.0
+        }
+      }
+    ],
+    "_slug": "butcher"
+  },
+  "Miasma Priest": {
+    "imagen": "/images/enemigos/Miasma Priest.png",
+    "spans": [
+      {
+        "texto": "• Cada vez que el sacerdote miasmático cambia de fase, su ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "resistencia a la acumulación de Anomalía",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " aumenta en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "10 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": ". Además, el ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "Daño Crítico",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " recibido aumenta en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "30 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ". Pueden acumularse hasta ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "2 cargas",
+        "estilo": "cargas"
+      },
+      {
+        "texto": " de este efecto. Cuando el escudo miasmático se rompe, se eliminan todas las cargas.",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "dropdown",
+        "label": "Cambios de fase (Daño Crit Recibido +30% | Res Anomalía +10%)",
+        "max_stacks": 2,
+        "efectos": {
+          "Daño_crítico": 30.0,
+          "Resistencia_Anomalía_Enemigo": 10.0
+        }
+      }
+    ],
+    "_slug": "priest"
+  },
+  "Primordial Nightmare - The Creator": {
+    "imagen": "/images/enemigos/Primordial Nightmare - The Creator.png",
+    "spans": [
+      {
+        "texto": "• El daño de anomalía recibido por el jefe ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "se reduce en un 30 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ". Cuando cambia del estado ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "escudo miasmático",
+        "estilo": "advertencia"
+      },
+      {
+        "texto": " al estado normal, o del estado normal al estado ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "escudo miasmático",
+        "estilo": "advertencia"
+      },
+      {
+        "texto": ", el Daño Crítico que le infligen los agentes ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 20 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ". Pueden acumularse hasta 3 cargas. Al recuperarse del Aturdimiento, el número de cargas se restablece.",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "checkbox",
+        "label": "Pasiva: Daño de Anomalía recibido -30%",
+        "efectos": {
+          "Bono_Daño_Anomalia": -30.0
+        }
+      },
+      {
+        "tipo": "dropdown",
+        "label": "Cambios de fase (Daño Crítico Recibido +20%)",
+        "max_stacks": 3,
+        "efectos": {
+          "Daño_crítico": 20.0
+        }
+      }
+    ],
+    "_slug": "creator"
+  },
+  "Discordant Solo - Vesper": {
+    "imagen": "/images/enemigos/Discordant Solo - Vesper.png",
+    "spans": [
+      {
+        "texto": "• Cuando la solista disonante recibe un ataque, el Daño Crítico de este ataque ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "disminuye en un 40 %",
+        "estilo": "advertencia"
+      },
+      {
+        "texto": ". Cuando un agente activa o prolonga la duración de velo etéreo durante el combate, todo el equipo obtiene ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "1 carga",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de resonancia sónica. Pueden acumularse hasta ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "3 cargas",
+        "estilo": "cargas"
+      },
+      {
+        "texto": " de resonancia sónica. Por cada carga de resonancia sónica, la tasa de acumulación de anomalía ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 8 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": " y el daño de anomalía ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 15 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ".",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "checkbox",
+        "label": "Pasiva: Daño Crítico disminuye un 40%",
+        "efectos": {
+          "Daño_crítico": -40.0
+        }
+      },
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de resonancia sónica (Acumulación +8% | Daño Anom. +15%)",
+        "max_stacks": 3,
+        "efectos": {
+          "Bono_Acumulación": 8.0,
+          "Bono_Daño_Anomalia": 15.0
+        }
+      }
+    ],
+    "_slug": "vesper"
+  },
+  "The Defiler": {
+    "imagen": "/images/enemigos/The Defiler.png",
+    "spans": [
+      {
+        "texto": "• Cuando un agente golpea a Profanadora con el apoyo defensivo, todo el equipo obtiene ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "1 carga",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de dictamen. Cuando un agente derriba a Profanadora mientras ataca desde el aire, todo el equipo obtiene ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "4 cargas",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de dictamen. Pueden acumularse hasta ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "6 cargas",
+        "estilo": "cargas"
+      },
+      {
+        "texto": " de dictamen. Cada carga dura 30 s. La duración se reinicia con cada activación.\nPor cada dictamen el Daño Crítico de los agentes ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 5 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ", el Daño Físico ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 5 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": " y el Daño Eléctrico ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 5 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ".\nEl daño infligido a Profanadora por medio de Anomalía de Atributo ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "se reduce en un 25 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": ".",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "checkbox",
+        "label": "Pasiva: Daño de Anomalía recibido -25%",
+        "efectos": {
+          "Bono_Daño_Anomalia": -25.0
+        }
+      },
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de dictamen (Daño Crít. +5% | Daño Fís/Eléc +5%)",
+        "max_stacks": 6,
+        "efectos": {
+          "Daño_crítico": 5.0,
+          "Daño_elemental__fisico_electrico": 5.0
+        }
+      }
+    ],
+    "_slug": "defiler"
+  },
+  "Wandering Hunter": {
+    "imagen": "/images/enemigos/Wandering Hunter.png",
+    "spans": [
+      {
+        "texto": "• La Defensa Base del cazador errante ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 40 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": " al encontrarse en el dominio miasmático. Cuando un agente golpea al cazador errante con un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "ataque sucesivo o un contraataque",
+        "estilo": "advertencia"
+      },
+      {
+        "texto": ", le aplica ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "1 carga",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de inestabilidad. Pueden acumularse hasta ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "5 cargas",
+        "estilo": "cargas"
+      },
+      {
+        "texto": " de inestabilidad durante 15 s. La duración se reinicia con cada activación.\nCuando el agente golpea al cazador errante, el daño bruto del agente ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 7 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": " por cada carga de inestabilidad que tenga el objetivo.",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "checkbox",
+        "label": "Dominio miasmático (Defensa Base +40%)",
+        "efectos": {
+          "Buff_Defensa": 0.4
+        }
+      },
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de inestabilidad (Daño Bruto +7%)",
+        "max_stacks": 5,
+        "efectos": {
+          "Daño_Adicional": 7.0
+        }
+      }
+    ],
+    "_slug": "hunter"
+  },
+  "Miasmic Fiend - Unfathomable": {
+    "imagen": "/images/enemigos/Miasmic Fiend - Unfathomable.png",
+    "spans": [
+      {
+        "texto": "• Cuando el demonio miasmático sufre una Anomalía de Atributo, recibe un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "8 % de Daño de Anomalía",
+        "estilo": "buff"
+      },
+      {
+        "texto": " adicional de los agentes. Puede acumularse hasta ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "6 veces",
+        "estilo": "cargas"
+      },
+      {
+        "texto": ". Activar el escudo miasmático elimina todas las cargas, y cada carga aumenta la eficiencia de reducción del escudo en un 2.5 %.",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de Anomalía (Daño de Anomalía +8%)",
+        "max_stacks": 6,
+        "efectos": {
+          "Bono_Daño_Anomalia": 8.0
+        }
+      }
+    ],
+    "_slug": "fiend"
+  },
+  "Notorious - Pompey": {
+    "imagen": "/images/enemigos/Notorious - Pompey.png",
+    "spans": [
+      {
+        "texto": "• Cuando el agente golpea al jefe con una ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "Asistencia Defensiva o Ataque en Cadena",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": ", le aplica 1 carga de Debilitamiento, que dura 20 s. La duración de cada carga se calcula de forma independiente. Por cada carga de Debilitamiento, el ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "Daño Crítico",
+        "estilo": "advertencia"
+      },
+      {
+        "texto": " del agente aumenta en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "15 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ".",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de Debilitamiento (Daño Crítico +15%)",
+        "max_stacks": 10,
+        "efectos": {
+          "Daño_crítico": 15.0
+        }
+      }
+    ],
+    "_slug": "pompey"
+  },
+  "Ye Shiyuan the Thrall": {
+    "imagen": "/images/enemigos/Ye Shiyuan the Thrall.png",
+    "spans": [
+      {
+        "texto": "• Cuando Sobek y la Sierva alternan turnos, la Sierva obtiene ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "1 carga",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de Contrato y Autosacrificio. Pueden acumularse hasta ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "3 veces",
+        "estilo": "cargas"
+      },
+      {
+        "texto": ". Cada carga de Contrato aumenta la ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "Resistencia a la acumulación de Anomalía",
+        "estilo": "debuff"
+      },
+      {
+        "texto": " de todos los atributos en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "15 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": ", y cada carga de Autosacrificio aumenta el multiplicador de daño por Aturdimiento de la Sierva en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "10 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ".\nCuando la Sierva está aturdida, el Daño Crítico recibido ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 50 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ".",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de turno (Res. Anomalía +15% | Mult. Aturdimiento +10%)",
+        "max_stacks": 3,
+        "efectos": {
+          "Resistencia_Anomalía_Enemigo": 15.0,
+          "Multiplicador_Aturdimiento": 10.0
+        }
+      },
+      {
+        "tipo": "checkbox",
+        "label": "Sierva Aturdida (Daño Crítico Recibido +50%)",
+        "efectos": {
+          "Daño_crítico": 50.0
+        }
+      }
+    ],
+    "_slug": "yeshiyuan"
+  },
+  "Notorious - Marionette": {
+    "imagen": "/images/enemigos/Notorious - Marionette.png",
+    "spans": [
+      {
+        "texto": "• El daño infligido por el jefe ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 25 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": ".\nCuando se destruye un clon o cuando el cuerpo principal es aturdido, se le aplican ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "1 o 5 cargas",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de Sobre hielo fino, respectivamente. Cada carga disminuye el daño que inflige el jefe en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "5 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": " y aumenta el Daño de Hielo y el Daño Etéreo que recibe de los agentes en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "10 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ". Las cargas se restablecen cuando el jefe se recupera del Aturdimiento.",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de Sobre hielo fino (Daño Hielo/Etéreo +10%)",
+        "max_stacks": 5,
+        "efectos": {
+          "Daño_elemental__hielo_etereo": 10.0
+        }
+      }
+    ],
+    "_slug": "marionette"
+  },
+  "Unknown Corruption Complex": {
+    "imagen": "/images/enemigos/Unknown Corruption Complex.png",
+    "spans": [
+      {
+        "texto": "• Al infligir suficiente daño a las piernas del jefe, se activará el Deterioro. Tras romperle las piernas con éxito, el agente recupera 1000 Decibelios y el jefe obtiene ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "1 carga",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de Desintegración durante 20 s, hasta un máximo de ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "4 cargas",
+        "estilo": "cargas"
+      },
+      {
+        "texto": ".\nCuando los ataques del agente golpean al enemigo, por cada carga de Desintegración que tenga el objetivo, el Daño Crítico ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 25 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ".",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de Desintegración (Daño Crítico +25%)",
+        "max_stacks": 4,
+        "efectos": {
+          "Daño_crítico": 25.0
+        }
+      }
+    ],
+    "_slug": "unknown"
+  },
+  "Sacrifice - Bringer": {
+    "imagen": "/images/enemigos/Sacrifice - Bringer.png",
+    "spans": [
+      {
+        "texto": "• Al infligir Anomalía de Atributo o Desorden en un jefe, todos los miembros del escuadrón obtienen ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "1 carga",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de Concentración Láser, acumulable hasta ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "6 veces",
+        "estilo": "cargas"
+      },
+      {
+        "texto": ". Cada carga de Concentración Láser aumenta el ATQ del agente en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "8 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ".\nCon al menos 3 cargas, infligir una Anomalía de Atributo aumentará su duración en 5 s. Cuando Sacrifice - Bringer ataca con su Cuchillo Sacrificial, todas las cargas del escuadrón se reinician.",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de Concentración Láser (ATQ +8%)",
+        "max_stacks": 6,
+        "efectos": {
+          "Ataque_%": 8.0
+        }
+      }
+    ],
+    "_slug": "bringer"
+  },
+  "Dead End Butcher": {
+    "imagen": "/images/enemigos/Dead End Butcher.png",
+    "spans": [
+      {
+        "texto": "• Cuando no está en estado Aturdido, el jefe obtiene ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "1 carga",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de Todo o Nada cada 6 s, acumulándose hasta ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "3 cargas",
+        "estilo": "cargas"
+      },
+      {
+        "texto": ". Cada carga aumenta el daño que inflige el jefe en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "10 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": ".\nCuando el ataque de un agente golpea al enemigo, el Daño Crítico del agente ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 25 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": " por cada carga de Todo o Nada que tenga el objetivo. Las cargas se reinician al recuperarse del Aturdimiento.",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de Todo o Nada (Daño Crítico +25%)",
+        "max_stacks": 3,
+        "efectos": {
+          "Daño_crítico": 25.0
+        }
+      }
+    ],
+    "_slug": "normal_butcher"
+  },
+  "Corrupted Overlord - Pompey": {
+    "imagen": "/images/enemigos/Corrupted Overlord - Pompey.png",
+    "spans": [
+      {
+        "texto": "• El jefe obtiene ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "1 carga",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de Curtido en Batalla cada 10 s, lo que aumenta el daño que inflige en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "20 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": " y se acumula hasta ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "3 veces",
+        "estilo": "cargas"
+      },
+      {
+        "texto": ".\nAl infligirle una Anomalía de Atributo, pierde 1 carga de Curtido en Batalla y el daño que recibe ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 15 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": " durante 20 s.",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "checkbox",
+        "label": "Debuff de Anomalía (Daño Recibido +15%)",
+        "efectos": {
+          "DMG_Taken": 15.0
+        }
+      }
+    ],
+    "_slug": "normal_pompey"
+  },
+  "Autonomous Assault Unit - Typhon Destroyer": {
+    "imagen": "/images/enemigos/Autonomous Assault Unit - Typhon Destroyer.png",
+    "spans": [
+      {
+        "texto": "• Los agentes aplican Abrumado al asestar una Asistencia Defensiva contra el jefe, y ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "3 cargas",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de Abrumado al acumular 3 Asistencias Defensivas y activar el Deterioro. Cada carga aumenta el Aturdimiento en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "15 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ", y el daño recibido de Ataques en Cadena y Definitivas (estando aturdido) en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "10 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ".\nEl enemigo repara las partes deterioradas al cargar, y reiniciará sus cargas de Abrumado tras recuperarse del Aturdimiento.",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de Abrumado (Aturdimiento +15% | Daño Cadena/Ulti +10%)",
+        "max_stacks": 3,
+        "efectos": {
+          "Aturdimiento": 15.0,
+          "Daño_Cadena_Ulti": 10.0
+        }
+      }
+    ],
+    "_slug": "typhon"
+  },
+  "Phaethon of the Scorched Horizon": {
+    "imagen": "/images/enemigos/Phaethon of the Scorched Horizon.png",
+    "spans": [
+      {
+        "texto": "• Después de activar Calcinador de vendavales, obtiene ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "5 cargas",
+        "estilo": "resaltado"
+      },
+      {
+        "texto": " de En llamas. Cada carga aumenta el daño infligido en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "10 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": " y reduce el Daño Crítico recibido en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "25 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": ".\nCon cargas de En llamas, cada vez que sufra una Anomalía perderá una carga, y el Daño de Floración recibido posteriormente aumentará en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "10 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": " durante 15 s (hasta un máximo de ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "3 cargas",
+        "estilo": "cargas"
+      },
+      {
+        "texto": "). Al activarse de nuevo, se reinicia la duración.",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "dropdown",
+        "label": "Cargas de En llamas (Daño Crítico Recibido -25%)",
+        "max_stacks": 5,
+        "efectos": {
+          "Daño_crítico": -25.0
+        }
+      },
+      {
+        "tipo": "dropdown",
+        "label": "Debuff por Anomalía (Daño de Floración +10%)",
+        "max_stacks": 3,
+        "efectos": {
+          "Abloom_dmg": 10.0
+        }
+      }
+    ],
+    "_slug": "phaethon"
+  },
+  "Sanguine Sweeper": {
+    "imagen": "/images/enemigos/Sanguine Sweeper.png",
+    "spans": [
+      {
+        "texto": "• Mientras la Barrera Corruptiva está activa, el Daño de Anomalía infligido por los agentes ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 50 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": " y la acumulación de Anomalía ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "aumenta en un 30 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ".\nCuando el jefe está ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "Aturdido",
+        "estilo": "advertencia"
+      },
+      {
+        "texto": ", el Daño de Anomalía recibido aumenta en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "15 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": " y la acumulación de Anomalía aumenta en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "15 %",
+        "estilo": "buff"
+      },
+      {
+        "texto": ".\nCuando el jefe ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "no está Aturdido",
+        "estilo": "debuff"
+      },
+      {
+        "texto": ", el daño que recibe se reduce en un ",
+        "estilo": "normal"
+      },
+      {
+        "texto": "15 %",
+        "estilo": "debuff"
+      },
+      {
+        "texto": ".",
+        "estilo": "normal"
+      }
+    ],
+    "opciones": [
+      {
+        "tipo": "checkbox",
+        "label": "Barrera Corruptiva activa (Daño Anom +50% | Acum. +30%)",
+        "efectos": {
+          "Bono_Daño_Anomalia": 50.0,
+          "Bono_Acumulación": 30.0
+        }
+      },
+      {
+        "tipo": "checkbox",
+        "label": "Jefe Aturdido (Daño Anom. Recibido +15% | Acum. +15%)",
+        "efectos": {
+          "Bono_Daño_Anomalia": 15.0,
+          "Bono_Acumulación": 15.0
+        }
+      },
+      {
+        "tipo": "checkbox",
+        "label": "Jefe No Aturdido (Daño Recibido -15%)",
+        "efectos": {
+          "DMG_Taken": -15.0
+        }
+      }
+    ],
+    "_slug": "sanguine"
+  }
+}

@@ -1,0 +1,22 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Razor Wire;102,9;38,8;normal
+2do Basico - Razor Wire;124,8;81,3;normal
+3er Basico - Razor Wire;157,4;94,0;elemental
+4to Basico - Razor Wire;373,7;230,0;elemental
+5to Basico - Razor Wire;447,8;253,0;elemental
+Basico - Garrote - First Form;453,0;182,7;elemental
+Basico - Garrote - Second Form;490,5;187,5;elemental
+1er Especial - Locked Position;105,1;78,7;elemental
+Especial (Vínculo) - Binding Sunder - First Form;81,1;61,3;elemental
+Especial (Explosión) - Binding Sunder - First Form;68,1;51,6;elemental
+Ataque Especial Ex (Vínculo) - Binding Sunder - Final Form;1082,4;656,0;elemental
+Ataque Especial Ex (Explosión) - Binding Sunder - Final Form;120,1;90,4;elemental
+Asistencia Rapida - Fierce Blade;155,2;116,7;elemental
+Asistencia Defensiva Ligera - Silent Protection;0,0;407,7;elemental
+Asistencia Defensiva Pesada - Silent Protection;0,0;514,4;elemental
+Asistencia Defensiva en Cadena - Silent Protection;0,0;250,4;elemental
+Asistencia Seguimiento - Course Disruption;584,2;374,4;elemental
+Dash - Piercing Ambush;121,0;45,7;normal
+Contraataque - Strangling Reversal;421,4;281,7;elemental
+Ataque en Cadena - Lunalux - Snare;1658,7;355,4;elemental
+Definitiva - Lunalux Garrote;3977,3;391,3;elemental

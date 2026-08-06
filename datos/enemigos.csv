@@ -1,0 +1,18 @@
+﻿Nombre;Resistencia viento;Resistencia fuego;Resistencia electrico;Resistencia hielo;Resistencia frost;Resistencia físico;Resistencia etereo;Resistencia porcentual;Defensa base del enemigo;Defensa plana del enemigo
+Autonomous Assault Unit - Typhon Destroyer;0;20;-20;0;0;0;0;0;953;0
+Corrupted Overlord - Pompey;0;-20;40;0;0;0;0;0;953;0
+Dead End Butcher;0;0;0;-20;-20;0;-20;0;953;0
+Discordant Solo - Vesper;-20;40;0;40;40;0;-20;0;476;0
+Miasma Priest;0;0;0;40;40;0;-20;0;953;0
+Miasmic Fiend - Unfathomable;0;40;0;0;0;-20;-20;0;953;0
+Notorious - Dead End Butcher;0;0;0;-20;-20;0;-20;0;953;0
+Notorious - Marionette;0;0;0;-20;-20;0;-20;0;953;0
+Notorious - Pompey;0;-20;40;0;0;0;0;0;953;0
+Phaethon of the Scorched Horizon;-20;0;0;-20;-20;40;0;0;952;0
+Primordial Nightmare - The Creator;0;0;0;40;40;-20;40;0;476;0
+Sacrifice - Bringer;0;0;0;-20;-20;20;0;0;953;0
+Sanguine Sweeper;40;40;-20;0;0;0;-20;0;476;0
+The Defiler;0;0;-20;40;40;-20;0;0;953;0
+Unknown Corruption Complex;0;0;-20;0;0;0;-20;0;953;0
+Wandering Hunter;0;-20;0;-20;-20;40;0;0;1588;0
+Ye Shiyuan the Thrall;-20;0;40;-20;-20;-20;0;0;953;0

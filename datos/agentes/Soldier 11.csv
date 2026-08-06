@@ -1,0 +1,25 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Warmup Sparks;69,6;26,0;normal
+2do Basico - Warmup Sparks;83,0;52,0;normal
+3er Basico - Warmup Sparks;206,2;124,1;normal
+4to Basico - Warmup Sparks;426,8;252,3;normal
+1er Basico - Fire Suppression;111,2;27,9;elemental
+2do Basico - Fire Suppression;114,4;51,2;elemental
+3er Basico - Fire Suppression;264,0;113,7;elemental
+4to Basico - Fire Suppression;681,7;288,8;elemental
+5to Basico - Fire Suppression;883,9;219,0;elemental
+5to Basico Reforzado - Fire Suppression;883,9;219,0;elemental
+5to Basico Adicional - Fire Suppression;166,4;0,0;elemental
+Basico - Fire Assault;188,7;46,1;elemental
+Ataque Especial - Raging Fire;105,4;79,0;elemental
+Ataque Especial Ex - Fervent Fire;1350,4;816,3;elemental
+Asistencia Rapida - Covering Fire;241,8;181,3;elemental
+Asistencia Defensiva Ligera - Hold the Line;0,0;388,8;elemental
+Asistencia Defensiva Pesada - Hold the Line;0,0;491,2;elemental
+Asistencia Defensiva en Cadena - Hold the Line;0,0;239,6;elemental
+Asistencia Seguimiento - Reignition;767,6;503,8;elemental
+Dash - Blazing Fire;137,6;51,8;normal
+Dash - Fire Suppression;158,0;118,4;elemental
+Contraataque - Backdraft;524,9;339,1;elemental
+Ataque en Cadena - Uplifting Flame;1265,0;321,4;elemental
+Definitiva - Bellowing Flame;4206,2;428,0;elemental

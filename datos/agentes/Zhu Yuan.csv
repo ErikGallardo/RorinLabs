@@ -1,0 +1,22 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Don't Move!;87,1;32,6;normal
+2do Basico - Don't Move!;252,9;146,8;normal
+3er Basico - Don't Move!;274,8;143,1;normal
+4to Basico - Don't Move!;302,8;187,0;normal
+5to Basico - Don't Move!;325,0;209,6;elemental
+1er Basico (Fisico) - Please Do Not Resist;107,6;90,4;normal
+2do Basico (Fisico) - Please Do Not Resist;107,6;90,4;normal
+3er Basico (Fisico) - Please Do Not Resist;322,6;268,9;normal
+1er Basico (Ether) - Please Do Not Resist;272,3;90,4;elemental
+2do Basico (Ether) - Please Do Not Resist;272,3;90,4;elemental
+3er Basico (Ether) - Please Do Not Resist;815,8;268,9;elemental
+Ataque Especial - Buckshot Blast;37,1;28,3;elemental
+Ataque Especial Ex - Full Barrage;1174,8;720,9;elemental
+Asistencia Rapida - Covering Shot;103,1;77,8;elemental
+Asistencia Seguimiento - Defensive Counter;712,2;463,7;elemental
+Dash - Firepower Offensive;111,2;41,9;normal
+Dash (Fisico) - Overwhelming Firepower;107,6;90,4;normal
+Dash (Ether) - Overwhelming Firepower;272,3;90,4;elemental
+Contraataque - Fire Blast;353,9;242,8;elemental
+Ataque en Cadena - Eradication Mode;1176,0;223,4;elemental
+Definitiva - Max Eradication Mode;3955,4;194,07;elemental

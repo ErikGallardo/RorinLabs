@@ -1,0 +1,22 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Cold-Bore Shot;69,7;26,1;normal
+2do Basico - Cold-Bore Shot;114,1;42,8;normal
+3er Basico - Cold-Bore Shot;222,0;91,6;normal
+4to Basico - Cold-Bore Shot;486,1;266,0;elemental
+Basico (Disparo) - Silenced Shot;96,0;35,9;elemental
+Basico (Contraataque) - Silenced Shot;468,2;223,6;elemental
+Basico (Finishing Move) - Silenced Shot;263,2;98,6;elemental
+Basico (Fuego Continuo) - Harmonizing Shot;192,6;109,2;aftershock
+Basico (Fuego Continuo) - Harmonizing Shot - Tartarus;137,1;77,4;aftershock
+Basico (Finishing Move) - Harmonizing Shot - Tartarus;91,4;51,6;aftershock
+Ataque Especial - Spectral Flash;143,0;107,8;elemental
+Ataque Especial Ex - Flash Burial;1269,1;649,4;elemental
+Asistencia Rapida - Cold-Bore Cover Fire;169,1;127,3;elemental
+Asistencia Defensiva Ligera - Delaying Demise;0,0;407,7;elemental
+Asistencia Defensiva Pesada - Delaying Demise;0,0;514,4;elemental
+Asistencia Defensiva en Cadena - Delaying Demise;0,0;250,4;elemental
+Asistencia Seguimiento - Piercing Thunder;866,3;491,3;elemental
+Dash - Vengeful Specter;103,1;38,9;normal
+Contraataque - Condemned Soul;439,7;292,3;elemental
+Ataque en Cadena - Stygian Guide;1150,0;204,0;elemental
+Definitiva - Underworld Requiem;2961,1;1384,0;elemental

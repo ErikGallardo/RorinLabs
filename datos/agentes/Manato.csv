@@ -1,0 +1,25 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Blazing Wind Slash;58,4;41,2;normal
+2do Basico - Blazing Wind Slash;166,3;120,0;normal
+3er Basico - Blazing Wind Slash;269,9;200,4;elemental
+1er Basico (Scorchwind) - Blazing Wind Slash;128,0;87,1;elemental
+2do Basico (Scorchwind) - Blazing Wind Slash;192,3;138,6;elemental
+3er Basico (Scorchwind) - Blazing Wind Slash;287,4;213,1;elemental
+1er Basico - Blazing Wind - Misty Slash;107,0;58,6;elemental
+2do Basico - Blazing Wind - Misty Slash;223,4;131,4;elemental
+3er Basico - Blazing Wind - Misty Slash;309,6;213,1;elemental
+4to Basico - Blazing Wind - Misty Slash;476,5;326,4;elemental
+Ataque Especial - Return to Ashes;102,4;71,8;elemental
+Ataque Especial (Cargado/Bloqueo) - Return to Ashes;261,6;184,2;elemental
+Ataque Especial Ex - Return to Ashes - Fall;1306,0;993,3;elemental
+Asistencia Rapida - Lone Shadow - Regroup;182,0;85,3;elemental
+Asistencia Defensiva - Lone Shadow - Mountain Stand;80,7;0,0;elemental
+Asistencia Defensiva Ligera - Lone Shadow - Mountain Stand;0,0;371,0;elemental
+Asistencia Defensiva Pesada - Lone Shadow - Mountain Stand;0,0;467,9;elemental
+Asistencia Defensiva en Cadena - Lone Shadow - Mountain Stand;0,0;227,6;elemental
+Asistencia Seguimiento - Lone Shadow - Breaking Fang;333,9;407,3;elemental
+Asistencia Seguimiento (Combo Max) - Lone Shadow - Breaking Fang;1141,0;722,9;elemental
+Dash - Radiant Blade - Zanshin;118,1;55,4;normal
+Contraataque - Radiant Blade - Battle Sweep;396,0;320,1;elemental
+Ataque en Cadena - Blazing Eruption;967,3;308,5;elemental
+Definitiva - Musou Aratama;3125,4;523,3;elemental

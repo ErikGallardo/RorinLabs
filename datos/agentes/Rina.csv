@@ -1,0 +1,14 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Whack the Dimwit;88,0;37,7;normal
+2do Basico - Whack the Dimwit;223,6;133,5;normal
+3er Basico - Whack the Dimwit;234,8;145,0;normal
+4to Basico - Whack the Dimwit;368,7;220,5;elemental
+Basico - Shoo the Fool;630,8;473,5;elemental
+Ataque Especial - Beat the Blockhead;122,9;92,1;elemental
+Ataque Especial Ex - Dimwit Disappearing Trick;1092,7;667,8;elemental
+Asistencia Rapida - Duple Meter Allemande;245,8;184,2;elemental
+Asistencia Seguimiento - Quadruple Meter Gavotte;699,2;455,4;elemental
+Dash - Sudden Surprise;210,6;78,9;normal
+Contraataque - Bangboo Callback;455,3;342,0;elemental
+Ataque en Cadena - Code of Conduct;2026,1;263,1;elemental
+Definitiva - The Queen's Attendants;4234,2;171,0;elemental

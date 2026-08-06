@@ -1,0 +1,21 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Cunning Combo;133,1;61,2;normal
+2do Basico - Cunning Combo;144,0;86,4;normal
+3er Basico - Cunning Combo;608,6;367,1;normal
+1er Basico - Do As I Please;177,5;61,2;normal
+2do Basico - Do As I Please;203,6;86,4;normal
+3er Basico - Do As I Please;908,6;367,1;normal
+Ataque Especial - Sugarcoated Bullet;105,4;76,4;elemental
+Ataque Especial Ex (Cargado) - Stuffed Sugarcoated Bullet;430,6;270,0;elemental
+Ataque Especial Ex (Bombardeo) - Stuffed Sugarcoated Bullet;430,6;270,0;elemental
+Ataque Especial Ex (Campo de Energia) - Stuffed Sugarcoated Bullet;774,2;486,4;elemental
+Asistencia Rapida - Emergency Bombard;127,2;96,4;elemental
+Asistencia Seguimiento - Window of Opportunity;754,4;496,4;elemental
+Dash (Forward) - Jack in the Box;318,3;112,0;normal
+Dash (Backward) - Jack in the Box;120,5;90,8;normal
+Dash (Forward) - Do As I Please;318,3;112,0;normal
+Contraataque - Diverted Bombard;365,0;247,0;elemental
+Ataque en Cadena (Bombardeo) - Ether Shellacking;420,8;76,4;elemental
+Ataque en Cadena (Campo de Energia) - Ether Shellacking;566,8;101,6;elemental
+Definitiva (Bombardeo) - Ether Grenade;1293,6;54,7;elemental
+Definitiva (Campo de Energia) - Ether Grenade;1746,6;73,9;elemental

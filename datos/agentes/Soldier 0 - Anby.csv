@@ -1,0 +1,22 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Penetrating Shock;65,7;42,2;elemental
+2do Basico - Penetrating Shock;124,9;82,0;elemental
+3er Basico - Penetrating Shock;200,2;115,5;elemental
+3er Basico (Finisher) - Penetrating Shock;80,6;94,0;elemental
+4to Basico - Penetrating Shock;309,6;207,0;elemental
+5to Basico - Penetrating Shock;297,0;196,9;elemental
+Ataque Especial - Celestial Thunder;120,1;90,4;elemental
+Ataque Especial (White Thunder) - Azure Flash;334,4;0,0;aftershock
+Ataque Especial - Azure Flash;87,0;50,7;aftershock
+Ataque Especial - Thunder Smite;376,2;0,0;aftershock
+Ataque Especial - Azure Flash - Boundary;499,1;143,8;aftershock
+Ataque Especial Ex - Sundering Bolt;760,2;688,5;aftershock
+Asistencia Rapida - Cloud Flash;217,1;163,2;elemental
+Asistencia Defensiva Ligera - Counter Surge;0,0;407,7;elemental
+Asistencia Defensiva Pesada - Counter Surge;0,0;514,4;elemental
+Asistencia Defensiva en Cadena - Counter Surge;0,0;250,4;elemental
+Asistencia Seguimiento - Conducting Blow;815,2;534,4;elemental
+Dash - Torrent;165,0;62,2;elemental
+Contraataque - Ground Flash Counter;501,4;328,2;elemental
+Ataque en Cadena - Leaping Thunderstrike;1128,1;298,2;aftershock
+Definitiva - Voidstrike;3470,7;415,5;aftershock

@@ -1,0 +1,19 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Glacial Judgment;147,1;83,7;normal
+2do Basico - Glacial Judgment;132,0;74,5;normal
+3er Basico - Glacial Judgment;232,4;127,3;normal
+4to Basico - Glacial Judgment;371,5;232,7;normal
+5to Basico - Glacial Judgment;773,6;440,5;elemental
+Basico - Final Verdict;140,1;78,7;elemental
+Ataque Especial - Shatterfrost Surge;114,1;85,5;elemental
+Ataque Especial Ex - Frostflow Tundra;2421,9;1215,9;elemental
+Habilidad de Entrada - Burst of Frost;1361,2;345,7;elemental
+Asistencia Rapida - Patch the Gaps;352,0;132,0;elemental
+Asistencia Defensiva Ligera - Frostveil Suppression;0,0;514,4;elemental
+Asistencia Defensiva Pesada - Frostveil Suppression;0,0;514,4;elemental
+Asistencia Defensiva en Cadena - Frostveil Suppression;0,0;250,4;elemental
+Asistencia Seguimiento - Frostlight Reflection;732,4;477,6;elemental
+Dash - Bouncing Dash;173,2;65,2;normal
+Contraataque - Swift Blink;677,6;429,0;elemental
+Ataque en Cadena - Temporary Alliance;1541,9;498,0;elemental
+Definitiva - Bunny Barrage;4375,2;304,0;elemental

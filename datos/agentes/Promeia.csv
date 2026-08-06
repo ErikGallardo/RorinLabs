@@ -1,0 +1,20 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Sweeping Edge;100,4;51,4;elemental
+2do Basico - Sweeping Edge;206,6;104,3;elemental
+3er Basico - Sweeping Edge;382,3;187,6;elemental
+4to Basico - Sweeping Edge;410,4;204,5;elemental
+5to Basico - Sweeping Edge;483,5;240,7;elemental
+Ataque Especial - Execution - Cold Flash;256,5;81,6;elemental
+Ataque Especial Ex - Execution - Glacial Death;159,6;0,0;elemental
+Ataque Especial - Execution - Descending Frost;767,7;411,8;elemental
+Ataque Especial - Execution - Layered Frost;1216,5;676,1;elemental
+Ataque Especial Ex - Execution - Merciless Judgment;1024,9;183,2;elemental
+Asistencia Rapida - Ambushing Strike;158,3;101,1;elemental
+Asistencia Defensiva Ligera - Injunction;0,0;407,7;elemental
+Asistencia Defensiva Pesada - Injunction;0,0;514,4;elemental
+Asistencia Defensiva en Cadena - Injunction;0,0;250,4;elemental
+Asistencia Seguimiento - Intercepting Strike;938,7;520,5;elemental
+Dash - Grim Reap;113,5;36,0;elemental
+Contraataque - Soaring Bat;672,3;365,0;elemental
+Ataque en Cadena - Hanging Judgment;1662,4;397,2;elemental
+Definitiva - Glaciating Impalement;3077,3;374,8;elemental

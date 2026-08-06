@@ -1,0 +1,23 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Lady's Bat;113,8;42,6;normal
+2do Basico - Lady's Bat;155,9;98,0;normal
+3er Basico - Lady's Bat;378,1;236,6;normal
+3er Basico (ALT) - Lady's Bat;423,8;243,7;elemental
+4to Basico - Lady's Bat;545,4;312,5;elemental
+Guard Boars (Baseball Bat) - To Arms!;186,0;24,3;normal
+Guard Boars (Boxing Gloves) - To Arms!;255,1;32,3;normal
+Guard Boars (Slingshot) - To Arms!;351,0;44,6;normal
+Guard Boars - Spinning Swing!;500,8;31,0;normal
+Ataque Especial (Line Drive) - Solid Hit!;124,4;93,6;elemental
+Ataque Especial (Fly Ball) - Solid Hit!;138,5;104,4;elemental
+Ataque Especial Ex (Line Drive) - Home Run!;1017,7;547,2;elemental
+Ataque Especial Ex (Fly Ball) - Home Run!;1073,2;585,4;elemental
+Asistencia Rapida - Hit By Pitch!;320,6;240,3;elemental
+Asistencia Defensiva Ligera - Safe on Base!;0,0;312,2;elemental
+Asistencia Defensiva Pesada - Safe on Base!;0,0;344,9;elemental
+Asistencia Defensiva en Cadena - Safe on Base!;0,0;104,6;elemental
+Asistencia Seguimiento - Scored a Run!;698,9;457,2;elemental
+Dash - Fearless Boar!;157,6;59,0;normal
+Contraataque - Returning Tusk!;616,0;390,9;elemental
+Ataque en Cadena - Grand Slam!;985,2;140,7;elemental
+Definitiva - Walk-Off Home Run!;3438,0;425,4;elemental

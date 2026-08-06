@@ -1,0 +1,19 @@
+Habilidad;Multiplicador;Aturdimiento;Etiqueta_Dano
+1er Basico - Lightning Strike;72,5;28,0;normal
+2do Basico - Lightning Strike;113,7;68,2;normal
+3er Basico - Lightning Strike;386,9;227,2;normal
+4to Basico - Lightning Strike;195,3;121,2;elemental
+Basico (Ataque Consecutivo) - Lightning Strike - Electrified;765,6;243,1;elemental
+Basico (Finishing Move) - Lightning Strike - Electrified;848,8;219,2;elemental
+Ataque Especial - Thunder Shield Rush;138,5;104,4;elemental
+Ataque Especial Ex - Thunder Shield Rush - High Voltage;1292,8;811,0;elemental
+Ataque Especial Ex (Cargado) - Thunder Shield Rush - High Voltage;1999,7;1273,6;elemental
+Asistencia Rapida - Armed Support;200,1;150,6;elemental
+Asistencia Defensiva Ligera - Thundershield;0,0;371,0;elemental
+Asistencia Defensiva Pesada - Thundershield;0,0;467,9;elemental
+Asistencia Defensiva en Cadena - Thundershield;0,0;227,6;elemental
+Asistencia Seguimiento - Public Security Ruling;857,5;567,2;elemental
+Dash - Thunder Assault;220,0;82,5;normal
+Contraataque - Retreat to Advance;461,0;300,1;elemental
+Ataque en Cadena - Final Judgment;1409,2;458,0;elemental
+Definitiva - Justice Prevails;4049,4;605,7;elemental

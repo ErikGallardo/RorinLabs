@@ -1,0 +1,55 @@
+﻿Nombre;probabilidad;daño crítico;Tasa de perforación;Maestría de anomalía;Perforación plana;elemento;daño elemental;Tipo;ataque;puntos de vida;defensa;tasa de anomalía;Impacto;Recuperación de energía;nivel;Aturdimiento;Facción;Rango
+Nicole;5;50;0;93;0;Etereo;0;Soporte;649;8145;622;90;88;1,1;60;0;Liebres Astutas;A
+Anby;5;50;0;93;0;Electrico;0;Aturdidor;658;7500;612;94;136;1,2;60;0;Liebres Astutas;A
+Billy;19,04;50;0;91;0;Físico;0;Atacante;787;6907;606;92;91;1,2;60;0;Liebres Astutas;A
+Nekomata;19,04;50;0;96;0;Físico;0;Atacante;910;7560;587;97;92;1,2;60;0;Liebres Astutas;S
+Starlight - Billy;19,04;50;0;89;0;Físico;0;Ruptura;859;8497;445;90;95;2;60;0;Liebres Astutas;S
+Koleda;5;50;0;96;0;Fuego;0;Aturdidor;735;8127;594;97;134;1,2;60;0;Construcciones Belobog;S
+Anton;19,04;50;0;90;0;Electrico;0;Atacante;791;7219;622;86;95;1,2;60;0;Construcciones Belobog;A
+Ben;5;50;0;90;0;Fuego;0;Defensor;1232;8577;724;86;95;1,1;60;0;Construcciones Belobog;A
+Grace;5;50;0;116;0;Electrico;0;Anomalo;825;7482;600;151;83;1,2;60;0;Construcciones Belobog;S
+Lycaon;5;50;0;90;0;Hielo;0;Aturdidor;728;8416;606;91;137;1,2;60;0;Servicios Domésticos Victoria;S
+Rina;5;50;14,04;92;0;Electrico;0;Soporte;717;8609;600;93;83;1,2;60;0;Servicios Domésticos Victoria;S
+Ellen;19,04;50;0;93;0;Hielo;0;Atacante;938;7673;606;94;93;1,2;60;0;Servicios Domésticos Victoria;S
+Corin;5;78,8;0;96;0;Físico;0;Atacante;807;6976;604;93;93;1,2;60;0;Servicios Domésticos Victoria;A
+Zhu Yuan;5;78,8;0;92;0;Etereo;0;Atacante;919;7482;600;93;90;1,2;60;0;N.E.P.S.;S
+Cissia;5;50;0;93;0;Electrico;0;Atacante;938;7673;606;94;90;1,2;60;0;m_o_d_;S
+Qingyi;5;50;0;93;0;Electrico;0;Aturdidor;758;8250;612;94;136;1,2;60;0;N.E.P.S.;S
+Seth;5;50;0;90;0;Electrico;0;Defensor;643;8701;746;86;94;1,1;60;0;N.E.P.S.;A
+Jane;5;50;0;114;0;Físico;0;Anomalo;880;7788;606;148;86;1,2;60;0;R.O.V.E.R.;S
+Caesar;5;50;0;90;0;Físico;0;Defensor;711;9526;753;87;123;1,2;60;0;Hijos de Calidon;S
+Lighter;5;50;0;90;0;Fuego;0;Aturdidor;797;8253;612;91;137;1,2;60;0;Hijos de Calidon;S
+Lucy;5;50;0;93;0;Fuego;0;Soporte;658;8025;612;94;86;1,1;60;0;Hijos de Calidon;A
+Burnice;5;50;0;120;0;Fuego;0;Anomalo;863;7368;600;118;83;1,1;60;0;Hijos de Calidon;S
+Piper;5;50;0;118;0;Físico;0;Anomalo;758;6976;613;116;86;1,1;60;0;Hijos de Calidon;A
+Pulchra;5;50;0;90;0;Físico;0;Aturdidor;665;7612;606;92;136;1,2;60;0;Hijos de Calidon;A
+Miyabi;5;50;0;238;0;Hielo;0;Anomalo;880;7673;606;113;86;1,2;60;0;Sección 6;S
+Yanagi;5;50;0;114;0;Electrico;0;Anomalo;872;7788;612;148;86;1,2;60;0;Sección 6;S
+Harumasa;19,04;50;0;95;0;Electrico;0;Atacante;915;7405;600;80;90;1,2;60;0;Sección 6;S
+Soukaku;5;50;0;96;0;Hielo;0;Soporte;665;8025;597;93;86;1,1;60;0;Sección 6;A
+Astra Yao;5;50;0;92;0;Etereo;0;Soporte;715;8609;600;93;83;1,1;60;0;Estrellas de Lyra;S
+Evelyn;19,04;50;0;90;0;Fuego;0;Atacante;929;7788;612;92;93;1,2;60;0;Estrellas de Lyra;S
+Soldier 0 - Anby;19,04;50;0;93;0;Electrico;0;Atacante;929;7673;612;94;93;1,2;60;0;Batallón Argente del Ministerio de Defensa;S
+Hugo;19,04;50;0;90;0;Hielo;0;Atacante;919;7940;616;86;95;1,2;60;0;Ruiseñor;S
+Vivian;5;50;0;118;0;Etereo;0;Anomalo;880;7673;606;144;86;1,2;60;0;Ruiseñor;S
+Orphie & Magus;5;78,8;0;90;0;Fuego;0;Atacante;929;7788;612;92;93;1,56;60;0;Batallón Óbolos;S
+Trigger;5;50;0;95;0;Electrico;0;Aturdidor;750;7923;600;96;131;1,2;60;0;Batallón Óbolos;S
+Soldier 11;19,04;50;0;93;0;Fuego;0;Atacante;888;7673;612;94;93;1,2;60;0;Batallón Óbolos;S
+Seed;5;78,8;0;93;0;Electrico;0;Atacante;929;7673;612;94;93;1,2;60;0;Batallón Óbolos;S
+Yixuan;19,04;50;0;90;0;Etereo;0;Ruptura;872;8373;441;92;93;1,2;60;0;Pináculo Yunkui;S
+Ye Shunguang;19,04;50;0;93;0;Físico;0;Atacante;938;7673;606;94;83;1,2;60;0;Pináculo Yunkui;S
+Ju Fufu;19,4;50;0;93;0;Fuego;0;Aturdidor;765;8250;517;96;118;1,2;60;0;Pináculo Yunkui;S
+Pan Yinhu;5;50;0;90;0;Físico;0;Defensor;661;8453;712;91;94;1,1;60;0;Pináculo Yunkui;A
+Yuzuha;5;50;0;93;0;Físico;0;Soporte;758;8829;612;124;86;1,2;60;0;Cabaña del Terror;S
+Alice;5;50;0;118;0;Físico;0;Anomalo;880;7673;606;142;86;1,2;60;0;Cabaña del Terror;S
+Manato;5;50;0;90;0;Fuego;0;Ruptura;755;7724;443;87;95;1,2;60;0;Cabaña del Terror;A
+Lucia;5;50;0;95;0;Etereo;0;Soporte;758;8477;594;96;83;1,56;60;0;Cabaña del Terror;S
+Yidhari;19,04;50;0;90;0;Hielo;0;Ruptura;859;8497;448;87;95;1,2;60;0;Cabaña del Terror;S
+Dialyn;19,4;50;0;93;0;Físico;0;Aturdidor;758;8250;612;94;110;1,2;60;0;Auditoría Krampus;S
+Banyue;19,4;50;0;89;0;Fuego;0;Ruptura;859;8497;445;90;95;1,2;60;0;Auditoría Krampus;S
+Promeia;5;50;0;114;0;Hielo;0;Anomalo;872;7780;612;148;86;1,2;60;0;Auditoría Krampus;S
+Zhao;5;50;0;96;0;Hielo;0;Defensor;765;9117;701;93;93;1,2;60;0;Auditoría Krampus;S
+Sunna;5;50;0;95;0;Físico;0;Soporte;758;8477;600;96;98;1,2;60;0;Ángeles de la Delusión;S
+Aria;5;50;0;116;0;Etereo;0;Anomalo;863;7750;619;151;87;1,2;60;0;Ángeles de la Delusión;S
+Nangong Yu;5;50;0;93;0;Etereo;0;Aturdidor;746;8373;622;126;120;1,2;60;0;Ángeles de la Delusión;S
+Velina;5;50;0;165;0;Viento;0;Anomalo;872;7788;612;112;86;1,2;60;0;Departamento de Planificación Exterior;S
